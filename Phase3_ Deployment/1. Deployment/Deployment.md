@@ -8,6 +8,10 @@ This project is deployed using **Vercel** forming an actual CI/CD pipeline from 
 <img width="1440" height="900" alt="Screenshot 2026-07-15 at 01 28 49" src="https://github.com/user-attachments/assets/ae6ea84e-f775-4824-bb48-490c707578ef" />
 
 
+# Live Link:
+https://healthcare-card-portal.vercel.app/
+
+
 ## Deployment Workflow
 
 1. Push the latest code to the GitHub repository.
